@@ -1,0 +1,11 @@
+/Users/tristan/Desktop/MATC/WeedenAssginment3Generic/WeedenAssginment3Generic/bin/Debug/netcoreapp3.1/WeedenAssginment3Generic
+/Users/tristan/Desktop/MATC/WeedenAssginment3Generic/WeedenAssginment3Generic/bin/Debug/netcoreapp3.1/WeedenAssginment3Generic.deps.json
+/Users/tristan/Desktop/MATC/WeedenAssginment3Generic/WeedenAssginment3Generic/bin/Debug/netcoreapp3.1/WeedenAssginment3Generic.runtimeconfig.json
+/Users/tristan/Desktop/MATC/WeedenAssginment3Generic/WeedenAssginment3Generic/bin/Debug/netcoreapp3.1/WeedenAssginment3Generic.runtimeconfig.dev.json
+/Users/tristan/Desktop/MATC/WeedenAssginment3Generic/WeedenAssginment3Generic/bin/Debug/netcoreapp3.1/WeedenAssginment3Generic.dll
+/Users/tristan/Desktop/MATC/WeedenAssginment3Generic/WeedenAssginment3Generic/bin/Debug/netcoreapp3.1/WeedenAssginment3Generic.pdb
+/Users/tristan/Desktop/MATC/WeedenAssginment3Generic/WeedenAssginment3Generic/obj/Debug/netcoreapp3.1/WeedenAssginment3Generic.csprojAssemblyReference.cache
+/Users/tristan/Desktop/MATC/WeedenAssginment3Generic/WeedenAssginment3Generic/obj/Debug/netcoreapp3.1/WeedenAssginment3Generic.AssemblyInfoInputs.cache
+/Users/tristan/Desktop/MATC/WeedenAssginment3Generic/WeedenAssginment3Generic/obj/Debug/netcoreapp3.1/WeedenAssginment3Generic.AssemblyInfo.cs
+/Users/tristan/Desktop/MATC/WeedenAssginment3Generic/WeedenAssginment3Generic/obj/Debug/netcoreapp3.1/WeedenAssginment3Generic.dll
+/Users/tristan/Desktop/MATC/WeedenAssginment3Generic/WeedenAssginment3Generic/obj/Debug/netcoreapp3.1/WeedenAssginment3Generic.pdb
